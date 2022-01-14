@@ -1,2 +1,0 @@
-assumeWalkOnWater true
-chatControl false
