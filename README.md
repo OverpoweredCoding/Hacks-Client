@@ -27,3 +27,10 @@ Here's an itemized list for all of you nerds who want to see that: <br>
 
 # Drawbacks of using
 The only real draw backs to using this client is the data collection (mandatory in order for the hivemind to operate) and not being able to preform normal tasks. While you are connected to the bot hivemind, you're unable to preform normal minecraft tasks since your account is botting for the hivemind server. If you want to go back to playing normally, close minecraft and launch a normal installation. Other than that, there's no real drawbacks.
+
+# How to install
+Now that we've gone through all the hard stuff, let me show you how to install this.
+- Download the latest release of the client
+- Run HacksPlusPlus.exe and enter your referal code (use OPCODING if you don't have one) 
+- Join a singleplayer world. You should see a few messages in chat about connecting to a the Hacks++ Server and verifying the server connection status. Just wait for a few minutes and it should finish up. Once it's done, you'll see a message that says "Connected to the Hacks++ Server Hivemind (singleplayer) Successfully!" in the chat. 
+- Now that you know it's working properly, press "RSHIFT" to open impact's settings or "=" to open the Hacks++ Client's macros gui
