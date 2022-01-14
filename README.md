@@ -1,4 +1,4 @@
-# Hacks-Client
+# Hacks++ Client
 A hacked client that will interface with the Hacks++ Server
 
 # WARNING + DISCLAIMER
