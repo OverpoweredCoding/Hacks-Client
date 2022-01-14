@@ -1,0 +1,2 @@
+assumeWalkOnWater true
+chatControl false
