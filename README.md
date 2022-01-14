@@ -23,6 +23,7 @@ Here's an itemized list for all of you nerds who want to see that: <br>
 - Ability to take part in large projects and not even lift a finger 
 - Impact client able to be used normally on all servers where the hivemind isn't setup on
 - Macro Keybind Mod installed and ready to be used for the creation of your own hacked scripts
+- Won't be targeted by the hivemind in the future if you stop using this client (as long as you used it on 2b2t for 1000+ hours)
 
 # Drawbacks of using
 The only real draw backs to using this client is the data collection (mandatory in order for the hivemind to operate) and not being able to preform normal tasks. While you are connected to the bot hivemind, you're unable to preform normal minecraft tasks since your account is botting for the hivemind server. If you want to go back to playing normally, close minecraft and launch a normal installation. Other than that, there's no real drawbacks.
